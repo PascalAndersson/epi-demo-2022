@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "demo_episerver11", "demo_episerver11.csproj", "{B4CFCDAD-8F52-4209-8970-650AC6E14DFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4CFCDAD-8F52-4209-8970-650AC6E14DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4CFCDAD-8F52-4209-8970-650AC6E14DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4CFCDAD-8F52-4209-8970-650AC6E14DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4CFCDAD-8F52-4209-8970-650AC6E14DFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53BECEB4-E429-44F0-8B5A-4ECD8355B355}
+	EndGlobalSection
+EndGlobal
